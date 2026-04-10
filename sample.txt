@@ -1,1 +1,3 @@
 Sample file for git testing
+changing file for third commit
+\
